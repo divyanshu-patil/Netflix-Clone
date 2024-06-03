@@ -32,11 +32,11 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/yourusername/netflix-landing-page-clone.git
+    https://github.com/divyanshu-patil/Netflix-Clone.git
     ```
 2. **Navigate to the project directory**:
     ```sh
-    cd netflix-landing-page-clone
+    cd Netflix-Clone
     ```
 3. **Open the `index.html` file in your browser**:
     ```sh
@@ -48,36 +48,13 @@ To run this project locally, follow these steps:
 - Simply open the `index.html` file in any web browser.
 - Resize the browser window to see the responsive design in action.
 
-## Contributing
-
-Contributions are welcome! Here’s how you can help:
-
-1. Fork the repository.
-2. Create a new branch:
-    ```sh
-    git checkout -b feature/your-feature-name
-    ```
-3. Make your changes.
-4. Commit your changes:
-    ```sh
-    git commit -m 'Add some feature'
-    ```
-5. Push to the branch:
-    ```sh
-    git push origin feature/your-feature-name
-    ```
-6. Open a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
-![Your Name](https://example.com/your-photo.jpg)
+Divyanshu Patil
 
-- **Your Name**: [your-email@example.com](mailto:your-email@example.com)
-- **GitHub**: [yourusername](https://github.com/yourusername)
+- **Divyanshu Patil**: [work.divyanshupatil@gmail.com](mailto:work.divyanshupatil@gmail.com)
+- **GitHub**: [divyanshu-patil](https://github.com/divyanshu-patil)
 
 Feel free to reach out if you have any questions or suggestions!
 
