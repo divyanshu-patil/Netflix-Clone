@@ -13,7 +13,7 @@ This project is a clone of the Netflix landing page, created using only HTML and
 
 ## Demo
 
-You can view a live demo of the project [here](https://clonebydivyanshupatil.netlify.app/) .
+You can view a live demo of the project [here](https://divyanshu-patil.github.io/Netflix-Clone/) .
 
 ## Features
 
