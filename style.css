@@ -151,7 +151,7 @@ nav .navbtn {
 
 nav select,
 footer select {
-  /* width: 100px; */
+  width: 100%;
   /* padding: 5px 32px; */
   /* padding: 5px 16px; */
   padding: 0px 10px;
@@ -166,26 +166,36 @@ footer select {
   appearance: none;
   position: relative;
   z-index: 10;
+  text-align: center;
 }
 
 .translate {
   display: flex;
+  
   justify-content: space-between;
   align-items: center;
-  padding: 6px 11px;
+  width: 120px;
+  padding: 6px 0px;
   border-radius: 5px;
   border: 1px solid rgba(255, 255, 255, 0.404);
   /* pointer-events: none; */
+  position: relative;
 }
 
 .translate > #logo {
   color: white;
   margin-right: 5px;
+  position: absolute;
+  left: 10px;
 }
-.translate > #dropdown {
+.translate #arrow{
+  position: absolute;
+  right: 10px;
+}
+/* .translate > #dropdown {
   transform: rotate(180deg);
   margin-left: 5px;
-}
+} */
 
 select > .colorwhite {
   color: black;
@@ -923,9 +933,10 @@ footer p {
     height: 66vh;
     box-shadow: 0 0 1000px 59px black inset;
   }
-
-  nav .translate {
+    nav .translate {
     padding: 4px 7px;
+    width: 50px;
+    height: 30px;
   }
   nav select {
     display: none;
