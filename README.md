@@ -1,4 +1,4 @@
-# Netflix Landing Page Clone
+# Netflix Landing Page UI Clone
 
 This project is a clone of the Netflix landing page, created using only HTML and CSS. The design is responsive, ensuring it looks great on devices of all sizes.
 
